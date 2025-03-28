@@ -1,3 +1,6 @@
 [submodule "astro"]
 	path = astro
 	url = https://github.com/KarenEYoval/astro.git
+[submodule "Django"]
+	path = Django
+	url = https://github.com/KarenEYoval/Django.git
