@@ -25,3 +25,6 @@
 [submodule "Proyecto"]
 	path = Proyecto
 	url = https://github.com/KarenEYoval/ProyectoTecnologiasWeb.git
+[submodule "ProyectoTecnologiasWeb"]
+	path = ProyectoTecnologiasWeb
+	url = https://github.com/KarenEYoval/TecnologiasWebProyecto.git
