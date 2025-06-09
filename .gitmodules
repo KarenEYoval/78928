@@ -22,3 +22,6 @@
 [submodule "Mosquitto"]
 	path = Mosquitto
 	url = https://github.com/KarenEYoval/Mosquitto.git
+[submodule "Proyecto"]
+	path = Proyecto
+	url = https://github.com/KarenEYoval/ProyectoTecnologiasWeb.git
